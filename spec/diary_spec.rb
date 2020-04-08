@@ -13,8 +13,14 @@ describe Diary do
   #   expect(subject.list_titles).to eq ["First Entry","Second Entry"]
   # end
 
-  it 'can add a dairy entry' do
+  it 'can view all dairy entry titles' do
     expect(Diary.all).to eq ["First Entry", "Second Entry"]
+  end
+
+  it 'can add a diary entry' do
+    Diary.add('Third Entry', 'This is a diary entry')
+    expect(Diary.all).to include "Third Entry"
+
   end
 
 end
