@@ -6,6 +6,6 @@ feature 'application loads' do
 
   scenario 'index page loads' do
     visit('/')
-    expect(page).to have_button 'View Entries'
+    expect(page).to have_button "entries"
   end
 end
