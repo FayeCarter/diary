@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/app.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/app.rb": {
         "lines": [
           1,
           null,
@@ -13,19 +13,23 @@
           null
         ]
       },
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/spec/diary_spec.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/spec/diary_spec.rb": {
         "lines": [
           1,
           null,
           1,
           null,
-          1,
-          1,
-          1,
           null,
           null,
-          1,
-          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           1,
           1,
           null,
@@ -33,44 +37,53 @@
           null
         ]
       },
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/lib/diary.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/lib/diary.rb": {
         "lines": [
           1,
-          null,
           1,
           null,
           1,
           null,
           1,
-          2,
-          null,
-          null,
+          1,
           1,
           3,
-          3,
           null,
           null,
-          1,
-          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null
         ]
       },
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/lib/entry.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/lib/entry.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          4,
+          1,
           null,
           null,
           null
         ]
       },
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/spec/entry_spec.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/spec/entry_spec.rb": {
         "lines": [
           1,
           null,
@@ -87,7 +100,7 @@
           null
         ]
       },
-      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/spec/features/app_spec.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Projects/Diary/spec/features/app_spec.rb": {
         "lines": [
           1,
           1,
@@ -98,6 +111,6 @@
         ]
       }
     },
-    "timestamp": 1586345287
+    "timestamp": 1586362083
   }
 }
