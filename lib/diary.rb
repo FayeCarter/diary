@@ -9,6 +9,10 @@ class Diary
     result.map{ |entry| entry['title'] }
   end
 
+  def self.add(title, body)
+    connection = PG.connect(dbname: 'diary')
+    connection.exec "INSERT INTO entries(title, body) VALUES('#{title}', '#{body}')"
+  end
 
 
   # attr_reader :entries
