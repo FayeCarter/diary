@@ -3,4 +3,9 @@ feature 'application loads' do
     visit('/')
     expect(page).to have_content 'Welcome'
   end
+
+  scenario 'index page loads' do
+    visit('/')
+    expect(page).to have_button 'View Entries'
+  end
 end
