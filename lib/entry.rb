@@ -1,7 +1,9 @@
 class Entry
 
   attr_reader :title
-  def initialize
-    @title = "No title"
+
+  def initialize(title)
+    @title = title
   end
+  
 end
