@@ -8,7 +8,7 @@
           1,
           null,
           1,
-          0,
+          1,
           null,
           null
         ]
@@ -17,11 +17,30 @@
         "lines": [
           1,
           null,
-          0,
+          1,
           null,
-          0,
-          0,
+          1,
+          1,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/lib/diary.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Diary/lib/entry.rb": {
+        "lines": [
+          1,
           null,
           null
         ]
@@ -30,13 +49,13 @@
         "lines": [
           1,
           1,
-          0,
-          0,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1586343243
+    "timestamp": 1586343523
   }
 }
