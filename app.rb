@@ -16,4 +16,14 @@ class App < Sinatra::Base
     @entries = Diary.all
     erb(:entries)
   end
+
+  post '/add' do
+    erb :index
+    redirect '/new'
+  end
+
+  get '/new' do
+    erb(:new)
+  end
+
 end
