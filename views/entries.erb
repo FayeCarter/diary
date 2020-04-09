@@ -1,2 +1,12 @@
-<p>HI!</p>
-<p><%= @entries %></p>
+<!DOCTYPE html>
+<head>
+  <title>Diary Entries</title>
+</head>
+<body>
+  <div>
+    <% @entries.each do |entry| %>
+      <p><%= entry %></p>
+    <% end %>
+  </div>  
+</body>
+</html>
